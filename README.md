@@ -87,6 +87,3 @@ Keterangan: WT = waiting time, TAT = turnaround time, RT = response time.
   waktu sehingga pemotongan proses terjadi otomatis.
 - `round_robin()` memakai antrean dengan aturan pendatang baru masuk lebih dulu.
 - `hitung_metrik()` menghitung CT, TAT, WT, dan RT dari Gantt chart.
-
-- Naya (analis dan penghitung manual)
-- Zamzami (penyusun laporan)
